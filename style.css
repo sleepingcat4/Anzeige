@@ -1,0 +1,31 @@
+* {
+    background: #ffff;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+    align-content: left;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: light;
+    color: black;
+    margin: 2px;
+    text-align: left;
+    margin-top: 10px;
+}
